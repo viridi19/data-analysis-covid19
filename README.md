@@ -8,6 +8,7 @@ This repo contains the data and experiments from DS part.
 
 - https://covid19br.wcota.me/
 - https://github.com/wcota/covid19br/
+- https://www.kaggle.com/unanimad/corona-virus-brazil
 
 ### Dados socio-economicos BRASIL
 
